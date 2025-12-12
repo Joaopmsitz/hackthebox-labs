@@ -1,0 +1,16 @@
+# 🪓 Brutus — Sherlock (Very Easy)
+
+🔗 Prova de conclusão:  
+https://labs.hackthebox.com/achievement/sherlock/2578759/631
+
+## ✔ O que foi praticado
+- Análise de logs forenses fornecidos (`auth.log` e `wtmp`)
+- Identificação de padrões de **ataque de brute force SSH** nos registros
+- Extração de informações de login e logout com `wtmp`
+- Uso de ferramentas de análise de logs (grep, sort, uniq) para filtrar eventos suspeitos
+- Identificação de **tentativas repetidas de login SSH de um IP externo**
+- Determinação do momento em que o ataque resultou em **login SSH bem‑sucedido**
+- Reconstrução da **linha do tempo do incidente** com base nos timestamps
+- Identificação de criação de contas e modificações pós‑comprometimento
+- Compreensão de como eventos de auditoria (`auth.log`) revelam escalonamento de acesso e persistência
+- Aprendizado de técnicas de investigação de incidentes usando casos reais de logs
