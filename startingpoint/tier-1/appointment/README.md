@@ -1,4 +1,4 @@
-# 📅 Appointment — Starting Point (Easy)
+# 📅 Appointment — Starting Point (Very Easy)
 
 🔗 Prova de conclusão:
 https://labs.hackthebox.com/achievement/machine/2578759/402
