@@ -1,4 +1,4 @@
-# 🧠 Tier 1 — Starting Point II
+# 🧠 Tier 1 — Starting Point 
 
 Tier 1 aumenta um pouco a complexidade, introduzindo técnicas fundamentais de exploração. Embora ainda seja amigável para iniciantes, este nível exige que o usuário aplique métodos básicos de exploração para obter a flag. Cada máquina costuma envolver um único passo principal, porém mais elaborado que no Tier 0, incentivando um pensamento mais crítico sobre vulnerabilidades e vetores de ataque.
 
