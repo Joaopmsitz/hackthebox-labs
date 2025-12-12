@@ -1,4 +1,4 @@
-# 🧱 Tier 0 — Starting Point I
+# 🧱 Tier 0 — Starting Point 
 
 Este tier foca nos blocos fundamentais do pentest. O objetivo é introduzir o usuário aos conceitos básicos: conectar ao Hack The Box, realizar enumeração inicial e interagir com serviços simples expostos na máquina.
 
