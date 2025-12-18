@@ -1,6 +1,10 @@
-# 🛡️ Hack The Box – Portfólio de Máquinas
+## Sobre este portfólio
 
-Repositório com todas as máquinas que concluí no Hack The Box, como parte do meu desenvolvimento em **Pentest, Segurança Ofensiva, Blue Team e Análise de Vulnerabilidades**.
+Este repositório registra minha evolução em **Hack The Box (HTB)**, com máquinas e desafios concluídos que comprovam **habilidades práticas** em:
+- Enumeração e reconhecimento
+- Exploração de vulnerabilidades
+- Pós-exploração e privilege escalation
+- Resolução de desafios do tipo Sherlock
+- Estudos de Blue Team e análise de vulnerabilidades
 
-Aqui documento meu progresso contínuo, organizando máquinas resolvidas, desafios Sherlock, e links oficiais que comprovam a conclusão no meu perfil.  
-O objetivo é manter um portfólio organizado, didático e consultável, registrando tanto minhas conquistas em Red Team quanto em Blue Team, incluindo análise de vulnerabilidades, exploração e investigação forense.
+Cada pasta contém links oficiais que comprovam a conclusão de cada máquina no meu perfil do HTB.
