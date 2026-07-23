@@ -2,13 +2,22 @@
 
 This directory contains Sherlock investigations completed on Hack The Box.
 
-Sherlocks are Digital Forensics and Incident Response (DFIR) challenges focused on:
+## ✅ Completed Challenges
 
-- Incident Investigation
-- Threat Analysis
-- IOC Identification
-- Evidence Collection
+| Sherlock | Category |
+|-----------|-----------|
+| Brutus | DFIR |
+| PhishNet | Phishing Investigation |
+| PhantomRing | DFIR |
+| FortySeven-1 | Threat Intelligence |
+
+## 🎯 Focus Areas
+
+- Digital Forensics
+- Threat Intelligence
+- Incident Response
 - Malware Analysis
+- IOC Identification
 - Log Analysis
 
-These challenges help develop investigative and analytical skills commonly used in SOC environments.
+These challenges help develop investigative and analytical skills commonly used in SOC and DFIR environments.
