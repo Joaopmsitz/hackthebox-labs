@@ -1,15 +1,6 @@
-# 🎯 Hack The Box Labs
+## 👨‍💻 HTB Profile
 
-This repository documents my progression through Hack The Box machines and Sherlock investigations.
-
-The goal is to develop practical cybersecurity skills through hands-on scenarios covering offensive and defensive security concepts.
-
----
-
-## 👨‍💻 Training Profiles
-
-- HTB Profile: [Hack The Box](https://app.hackthebox.com/users/2578759)
-- LetsDefend Profile: [LetsDefend](https://app.letsdefend.io/user/JoaopmsItz)
+- HTB Profile: [Hack The Box Profile](https://app.hackthebox.com/users/2578759)
 
 ---
 
@@ -44,7 +35,6 @@ hackthebox-labs/
 - Incident Response
 - IOC Identification
 - Threat Analysis
-- Blue Team Methodologies
 
 ---
 
@@ -56,11 +46,11 @@ Beginner-friendly machines designed to build foundational cybersecurity knowledg
 
 ### 🖥️ Easy Machines
 
-Realistic machines focused on enumeration, exploitation, and privilege escalation techniques.
+Machines focused on enumeration, exploitation, and privilege escalation.
 
 ### 🔍 Sherlocks
 
-Digital Forensics and Incident Response (DFIR) challenges focused on investigating security incidents and analyzing evidence.
+DFIR challenges focused on evidence analysis, incident investigation, and threat identification.
 
 ---
 
@@ -72,7 +62,7 @@ Digital Forensics and Incident Response (DFIR) challenges focused on investigati
 - Burp Suite
 - SMBClient
 - CrackMapExec
-- Linux Command Line
+- Linux CLI
 - Windows Native Tools
 - CyberChef
 - Wireshark
@@ -95,14 +85,8 @@ Digital Forensics and Incident Response (DFIR) challenges focused on investigati
 
 ## 📈 Objective
 
-This repository serves as a personal learning portfolio documenting completed machines and investigations while developing practical skills for:
-
-- SOC Analyst
-- Incident Response
-- Threat Hunting
-- Blue Team Operations
-- Cybersecurity Fundamentals
+This repository documents my progression through Hack The Box challenges while developing offensive and defensive cybersecurity skills.
 
 ---
 
-⭐ Continuous development of offensive and defensive cybersecurity skills through hands-on Hack The Box challenges.
+⭐ Continuous development through hands-on Hack The Box machines and Sherlock investigations.
