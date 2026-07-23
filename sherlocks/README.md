@@ -4,12 +4,12 @@ This directory contains Sherlock investigations completed on Hack The Box.
 
 ## ✅ Completed Challenges
 
-| Sherlock | Category | Main Topics | MITRE / Concepts |
+| Sherlock | Domain | Focus Area | Skills Developed |
 |-----------|-----------|-----------|-----------|
-| Brutus | DFIR | SSH Brute Force, Linux Logs | Incident Response |
-| PhishNet | Email Forensics | Phishing, Attachments, SPF | T1566.001 |
-| PhantomRing | DFIR | Malware Analysis, Evidence Correlation | IOC Investigation |
-| FortySeven-1 | Threat Intelligence | APT-K-47, Threat Research | MITRE ATT&CK |
+| Brutus | DFIR | Linux Log Analysis | SSH Investigation, Timeline Reconstruction |
+| PhishNet | Email Security | Phishing Investigation | Header Analysis, Attachment Analysis, IOC Extraction |
+| PhantomRing | DFIR | Malware Investigation | IOC Analysis, Incident Response, Evidence Review |
+| FortySeven-1 | Threat Intelligence | APT Profiling | MITRE ATT&CK, OSINT, Threat Attribution |
 
 ## 🎯 Focus Areas
 
