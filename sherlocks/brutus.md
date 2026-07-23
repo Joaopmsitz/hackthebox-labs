@@ -1,61 +1,61 @@
 # 🪓 Brutus — Sherlock (Very Easy)
 
-🔗 Prova de conclusão:  
-https://labs.hackthebox.com/achievement/sherlock/2578759/631
+🔗 Completion Proof:  
+[Hack The Box Achievement](https://labs.hackthebox.com/achievement/sherlock/2578759/631)
 
-## 📝 Descrição
+## 📝 Description
 
-Sherlock focado em **análise forense de logs**, **investigação de incidentes** e identificação de atividades suspeitas em um ambiente Linux.
+Brutus is a Sherlock challenge focused on **log forensics**, **incident investigation**, and identifying suspicious activity within a Linux environment.
 
-O desafio simulou um cenário de comprometimento através de ataques de força bruta contra SSH, onde foi necessário analisar evidências deixadas nos registros do sistema para reconstruir a linha do tempo do ataque.
+The challenge simulated a system compromise through SSH brute-force attacks, requiring the analysis of system logs and forensic evidence to reconstruct the attack timeline.
 
-## ✔ O que foi praticado
+## ✔ Skills Practiced
 
-- Análise de logs forenses Linux (`auth.log` e `wtmp`)
-- Investigação de tentativas de autenticação SSH
-- Identificação de padrões de ataque de brute force
-- Análise de endereços IP suspeitos em registros de acesso
-- Extração de informações de login e logout utilizando arquivos de auditoria
-- Reconstrução da linha do tempo de um incidente
-- Identificação de acesso autorizado após tentativas consecutivas de login
-- Investigação de alterações realizadas após o comprometimento
-- Análise de eventos relacionados a criação de usuários e persistência
-- Uso de comandos Linux para filtragem e correlação de evidências
+- Linux forensic log analysis (`auth.log` and `wtmp`)
+- SSH authentication investigation
+- Brute-force attack detection
+- Analysis of suspicious IP addresses in access logs
+- Extraction of login and logout information from audit files
+- Incident timeline reconstruction
+- Identification of successful authentication after repeated failed attempts
+- Investigation of post-compromise activity
+- Analysis of user creation and persistence-related events
+- Evidence filtering and correlation using Linux commands
 
-## 🛠 Ferramentas utilizadas
+## 🛠 Tools Used
 
 - Linux
 - grep
 - sort
 - uniq
 - last
-- análise manual de logs
-- arquivos de auditoria (`auth.log` e `wtmp`)
+- Manual log analysis
+- Audit files (`auth.log` and `wtmp`)
 
-## 🔎 Principais descobertas
+## 🔎 Key Findings
 
-Durante a investigação foram analisados registros de autenticação para identificar:
+During the investigation, authentication logs were analyzed to identify:
 
-- Tentativas repetidas de login SSH
-- Origem das conexões suspeitas
-- Momento em que ocorreu o acesso bem-sucedido
-- Eventos posteriores ao comprometimento do sistema
+- Repeated SSH login attempts
+- Origin of suspicious connections
+- The point at which successful access was obtained
+- Activities performed after the system compromise
 
-A investigação foi conduzida através da correlação de diferentes fontes de evidência, permitindo reconstruir a sequência dos eventos do ataque.
+The investigation was conducted by correlating multiple evidence sources, allowing the reconstruction of the attack sequence and the identification of attacker activity.
 
-## 📚 Conhecimentos adquiridos
+## 📚 Knowledge Gained
 
-- Fundamentos de Digital Forensics
-- Análise de logs em ambientes Linux
-- Investigação de incidentes de segurança
-- Identificação de ataques de força bruta
-- Técnicas básicas de Incident Response
-- Correlação de eventos para reconstrução de ataques
+- Digital Forensics fundamentals
+- Linux log analysis
+- Security incident investigation
+- Brute-force attack identification
+- Basic Incident Response techniques
+- Event correlation for attack reconstruction
 
 ---
 
-# 🔍 HTB Sherlocks — Investigação Forense e Análise de Incidentes
+# 🔍 HTB Sherlocks — Digital Forensics & Incident Investigation
 
-Os **Sherlocks do Hack The Box** são desafios focados em **forense digital**, **análise de logs**, **detecção de ataques**, **malware analysis** e **investigação pós-incidente**.
+Hack The Box Sherlocks are challenges focused on **digital forensics**, **log analysis**, **attack detection**, **malware analysis**, and **post-incident investigations**.
 
-Eles simulam cenários reais de segurança onde o analista precisa coletar evidências, entender a cadeia de ataque e responder perguntas utilizando técnicas de Blue Team, Threat Hunting e Incident Response.
+They simulate real-world security scenarios where analysts must collect evidence, understand the attack chain, and answer investigative questions using Blue Team, Threat Hunting, and Incident Response methodologies.
